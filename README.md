@@ -1,2 +1,1 @@
-# analytics
- Zameer's Portoflio Repository
+# POC Project for Tool Comparison between Cognos, Looker and PowerBI
